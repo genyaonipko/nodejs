@@ -1,0 +1,11 @@
+{
+  "name": "Module_1",
+  "version": "1.0.0",
+  "description": "HomeWork",
+  "main": "index.js",
+  "author": "Yevhenii",
+  "license": "MIT",
+  "dependencies": {
+    "task_1": "file:task_1"
+  }
+}
